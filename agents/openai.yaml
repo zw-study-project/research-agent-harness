@@ -1,0 +1,5 @@
+interface:
+  display_name: "Research Agent Harness"
+  short_description: "Compose generic and research harnesses without overwriting"
+  default_prompt: "Use $research-agent-harness to inspect this project, plan a non-overwriting research overlay, and validate the composed research-agent workflow."
+
